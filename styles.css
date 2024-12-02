@@ -19,7 +19,7 @@ body {
     overflow: hidden;
     display: flex;
     flex-direction: column;
-    height: 90vh;
+    height: 60vh;
 }
 
 .chat-header {
